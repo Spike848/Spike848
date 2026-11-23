@@ -7,7 +7,7 @@
 
 ```csharp
 
-Hello stalker
+Scheda tecnica
 ----------------
        OS  :  Windows 11 Pro
       CPU  :  Intel Core i9-14900KS 24-Core Processor 6,2 GHz
