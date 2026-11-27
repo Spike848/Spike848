@@ -15,7 +15,7 @@ Scheda tecnica
       RAM  :  64 GB Corsair Vengeance DDR5 6000Mhz
     Alias  :  Spike848
   Discord  :  217113360200761346
-Languages  :  Rust
+Languages  :  Rust, Python
   Project  :  BACKCORD
 ```
 
